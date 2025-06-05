@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background: #f0f0f0;
+    }
+    .container {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      width: 300px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      text-align: center;
+    }
+    input, button {
+      width: 100%;
+      padding: 8px;
+      margin-top: 10px;
+    }
+    .output {
+      margin-top: 20px;
+      background: #e0f7fa;
+      padding: 10px;
+      border-radius: 6px;
+    }
